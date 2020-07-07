@@ -1,0 +1,101 @@
+.first-section{
+    background-color: #F0FFF0;
+}
+.logo{
+  height: 60px;
+  width: 200px;
+
+}
+.menu{
+    padding: 3.5% 0% 7% 6%;
+}
+.nav a{
+font-size: 16px;
+color: black;
+}
+.button{
+    background-color:#21B573;
+    color: white;
+    padding: 12px 28px;
+    border: none;
+    border-radius: 33px;
+}
+.banner{
+    padding-left: 6%;
+    margin-bottom: 5%     ;
+}
+.banner img{
+    width: 100%;
+}
+.banner .qus{
+    color: #FD511A;
+}
+.grey{
+    color: gray;
+}
+.banner h1{
+    font-size: 48px;
+    font-weight: 900;
+    padding-bottom: 6%;
+}
+.banner span{
+    color: #21B573;
+    font-weight: bold;
+}
+.get-started-button{
+    background-color:#21B573;
+    color: white;
+    padding: 2% 15%;
+    border: none;
+    border-radius: 33px;
+    margin-top: 5%;
+    margin-bottom: 20%;
+}
+.detail {
+text-align: center;
+height: 100%;
+padding-top: 20%;
+border: none;
+background-color:#F8FFFB;
+border-radius: 10px;
+
+}
+.detail img{
+height: 40%;
+width: 35%;
+transition: color 2s;
+}
+.detail:hover h4 {
+    color: #21B573;
+}
+#student-card {
+overflow: hidden;
+box-shadow: 5px 5px 10px rgb(211, 204, 204);
+border-radius:10px ;
+}
+.course-section{
+    margin-top: 5%;
+}
+.course-div {
+    text-align: center;
+    border: none;
+  border-radius: 5%;
+  box-shadow: 5px 5px 10px rgb(211, 204, 204);
+}
+.course-section img {
+    height: 50%;
+    width:90%;
+    padding-top: 5%;
+
+}
+.course-section-hader {
+    font-size: 40px;
+    font-weight: 700;
+}
+.buy-course-button{
+    background-color:#21B573;
+    color: white;
+    padding: 2% 15%;
+    border:none;
+    border-radius: 33px;  
+}
